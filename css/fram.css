@@ -1,0 +1,157 @@
+
+/* start background color  */
+
+.bg-white {
+    background-color: white;
+}
+
+
+/* start colour  */
+
+.gray {
+    color: gray;
+} 
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.orange {
+    color: orange;
+
+}
+.white {
+    color: white;
+}
+
+.c-gray {
+    color: gray;
+} 
+
+
+/* .c-blue {
+    background-color: hsl(240, 14%, 69%);
+}
+
+.c-red {
+    background-color: red;
+}
+.c-green {
+    background-color: green;
+}
+.c-orange {
+    background-color: orange;
+
+} */
+/* end colour  */
+/* end background color  */
+
+
+/* start padding and margin  */
+.p-10 {
+    padding: 10px;
+}
+.p-20 {
+    padding: 20px;
+}
+.m-10 {
+    margin: 10px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.m-bot15 {
+    margin-bottom: 15px;
+}
+
+.text-c {
+    text-align: center;
+}
+
+.shadow {
+    box-shadow: 0 2px 15px rgb(0 0 0 / 10%);
+
+}
+
+/* end padding and margin  */
+/* start position  */
+.p-realtive {
+    position: relative;
+}
+
+.p-abs {
+    position: absolute;
+}
+
+/* end position  */
+
+/* start flex  */
+.flex {
+    display: flex;
+}
+
+.block {
+    display: block;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+.sp-between {
+display: flex;
+justify-content: space-between;
+}
+.end {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.al-center {
+    display: flex;
+    align-items: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    
+}
+
+/* end flex  */
+
+.b-rad10 {
+    border-radius: 10px;
+}
+
+.bg-main {
+    background-color: #f1f5f9;
+}
+.bg-green {
+    background-color: green;
+}
+.bg-blue {
+    background-color: blue;
+}
+.bg-orange {
+    background-color: orange;
+}
+
+.mg-top5 {
+    margin-top: 5px;
+}
+
+.out-green {
+    outline: 5px solid green;
+}
+.out-orange {
+    outline: 5px solid orange;
+}
+.out-blue {
+    outline: 5px solid blue;
+}
